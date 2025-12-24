@@ -541,4 +541,10 @@ background: url(../img/dd-down.svg) no-repeat center center;}
     .gallery-wrap li{
         width: 100%;
     }
+    #section3{
+        padding: 20px 0;
+    }
+    .filter-form .form-item label{
+        padding: 16px;
+    }
 }
